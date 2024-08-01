@@ -1,0 +1,30 @@
+{
+  "name": "etsyproject",
+  "version": "1.0.0",
+  "description": "a tool for etsy trending keyword research",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FullStackHarman/etsyKeywordTool.git#master"
+  },
+  "keywords": [
+    "etsy",
+    "keyword",
+    "research",
+    "trending",
+    "keyword"
+  ],
+  "author": "Harman Preet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FullStackHarman/etsyKeywordTool/issues"
+  },
+  "homepage": "https://github.com/FullStackHarman/etsyKeywordTool/tree/master#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
